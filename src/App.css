@@ -5,3 +5,6 @@
 .footer {
   background-color: grey;
 }
+.card {
+  max-width: 600px;
+}

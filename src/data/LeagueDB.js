@@ -13,7 +13,7 @@ const champions = [
     id: 2,
     title: "Yasuo",
     image:
-      "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_86.jpg",
+      "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_2.jpg",
     content:
       "Yasuo è un abile spadaccino Ioniano in grado di controllare il vento. La sua abilità e determinazione lo rendono un guerriero letale.",
     tags: ["Infinity Edge", "Phantom Dancer", "Bloodthirster"],
@@ -23,7 +23,7 @@ const champions = [
     id: 3,
     title: "Jinx",
     image:
-      "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_86.jpg",
+      "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_1.jpg",
     content:
       "Jinx è una criminale maniacale con una predilezione per il caos. Armata di esplosivi e armi personalizzate, porta il disordine ovunque vada.",
     tags: ["Kraken Slayer", "Runaan's Hurricane", "Lord Dominik's Regards"],
@@ -33,7 +33,7 @@ const champions = [
     id: 4,
     title: "Zed",
     image:
-      "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zed_86.jpg",
+      "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zed_0.jpg",
     content:
       "Zed è il maestro dell'ombra e un assassino letale. Usa le ombre per confondere e distruggere i suoi nemici con precisione micidiale.",
     tags: ["Duskblade of Draktharr", "Youmuu's Ghostblade", "Edge of Night"],
@@ -43,7 +43,7 @@ const champions = [
     id: 5,
     title: "Lux",
     image:
-      "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lux_86.jpg",
+      "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lux_7.jpg",
     content:
       "Lux è una maga di Demacia che incarna la luce stessa. Usa i suoi poteri per proteggere e ispirare gli altri.",
     tags: ["Luden's Tempest", "Rabadon's Deathcap", "Ardent Censer"],
@@ -53,7 +53,7 @@ const champions = [
     id: 6,
     title: "Darius",
     image:
-      "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_86.jpg",
+      "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_0.jpg",
     content:
       "Darius è il leader della Trifarian Legion e un guerriero formidabile che schiaccia i suoi nemici con forza bruta.",
     tags: ["Stridebreaker", "Dead Man's Plate", "Sterak's Gage"],
@@ -63,7 +63,7 @@ const champions = [
     id: 7,
     title: "Miss Fortune",
     image:
-      "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MissFortune_86.jpg",
+      "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MissFortune_7.jpg",
     content:
       "Miss Fortune è una cacciatrice di taglie di Bilgewater, letale e affascinante. Usa i suoi colpi di pistola per annientare i nemici.",
     tags: ["Kraken Slayer", "Infinity Edge", "The Collector"],
@@ -73,7 +73,7 @@ const champions = [
     id: 8,
     title: "Ekko",
     image:
-      "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_86.jpg",
+      "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_0.jpg",
     content:
       "Ekko è un prodigio di Zaun in grado di manipolare il tempo. Usa la sua intelligenza per battere i nemici in modo creativo.",
     tags: ["Hextech Rocketbelt", "Lich Bane", "Zhonya's Hourglass"],
@@ -83,7 +83,7 @@ const champions = [
     id: 9,
     title: "Kai'Sa",
     image:
-      "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_86.jpg",
+      "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_0.jpg",
     content:
       "Kai'Sa è una cacciatrice implacabile, sopravvissuta alle profondità del Vuoto grazie alla simbiosi con una creatura che la protegge.",
     tags: ["Kraken Slayer", "Guinsoo's Rageblade", "Runaan's Hurricane"],
@@ -93,7 +93,7 @@ const champions = [
     id: 10,
     title: "Thresh",
     image:
-      "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_86.jpg",
+      "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_0.jpg",
     content:
       "Thresh è un custode spettrale di anime, un essere spietato e crudele che si diverte a tormentare i vivi e i morti.",
     tags: ["Locket of the Iron Solari", "Knight's Vow", "Zeke's Convergence"],
